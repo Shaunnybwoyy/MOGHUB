@@ -35,5 +35,6 @@ enterTxxt: {
 userInputTxt: {
   borderbottomwidth: 1
 },
+export default styles;
 
   
